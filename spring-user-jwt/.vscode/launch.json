@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UserauthApplication<userauth>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.nk.userauth.UserauthApplication",
+            "projectName": "userauth",
+            "args": ""
+        }
+    ]
+}
